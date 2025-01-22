@@ -10,8 +10,9 @@ if boolean_expression:
     statements
 """
 car_speed = float(input("Enter the speed: "))
-if car_speed > 45:
+if (car_speed > 45 and car_speed <= 55):
+    print("You get a warning")
+elif car_speed > 55:
     print("You get a ticket")
-    print("Please go to the court")
 else:
     print("Good driver")
