@@ -1,1 +1,2 @@
-6, 5
+in class_grades[0]:
+        total =
