@@ -1,2 +1,3 @@
-in class_grades[0]:
-        total =
+while line != "":
+    print(line)
+    line = f.readline()
