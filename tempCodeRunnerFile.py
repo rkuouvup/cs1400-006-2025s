@@ -1,3 +1,1 @@
-while line != "":
-    print(line)
-    line = f.readline()
+2
