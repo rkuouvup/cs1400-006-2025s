@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -113.9918,
+    "lat": 40.7329
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 60.67,
+    "feels_like": 58.55,
+    "temp_min": 60.67,
+    "temp_max": 60.67,
+    "pressure": 1023,
+    "humidity": 45,
+    "sea_level": 1023,
+    "grnd_level": 873
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.61,
+    "deg": 90
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1742840813,
+  "sys": {
+    "type": 1,
+    "id": 3994,
+    "country": "US",
+    "sunrise": 1742823126,
+    "sunset": 1742867520
+  },
+  "timezone": -21600,
+  "id": 0,
+  "name": "Wendover",
+  "cod": 200
+}
